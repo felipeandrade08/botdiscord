@@ -190,6 +190,6 @@ Projeto desenvolvido para uso privado/comercial.
 
 ## 👨‍💻 Desenvolvedor
 
-*[Seu Nome]*  
-*[Seu LinkedIn/GitHub]*  
-*[Seu Email]*
+*[FELIPE ANDRADE]*  
+*[Seu [LinkedIn](https://www.linkedin.com/in/felipe-andrade-0331b9205/)/[GitHub]](https://github.com/felipeandrade08)*  
+*[felipe.pessoall2026@gmail.com]*
